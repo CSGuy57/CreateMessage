@@ -12,8 +12,10 @@ public class ReceiveMessageActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_receive_message);
 
+        // Create an intent
         Intent intent = getIntent();
 
+        // Add message intent
         String message = intent.getStringExtra(MainActivity.myKey);
 
         Log.d("ReceiveMessageActivity", message);
