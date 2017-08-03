@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CreateMessage</string>
+    <string name="button_submit_text">Submit</string>
+</resources>
