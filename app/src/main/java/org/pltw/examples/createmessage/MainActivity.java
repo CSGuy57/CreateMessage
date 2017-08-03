@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+// This was a comment made on GitHub.com
 public class MainActivity extends AppCompatActivity {
     public static final String myKey = "org.pltw.examples.myKey";
     private Button mSubmitButton;
