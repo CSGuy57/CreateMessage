@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mSubmitButton = (Button) findViewById(R.id.button_submit); // comment lkjlkj
+        mSubmitButton = (Button) findViewById(R.id.button_submit); // comment lkjlkj hkjh
 
         mSubmitButton.setOnClickListener(new View.OnClickListener() {
             @Override
